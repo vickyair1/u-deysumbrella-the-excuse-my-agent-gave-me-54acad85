@@ -1,0 +1,7 @@
+kit/
+kit.tar.gz
+*-bundle.tar.gz
+bundle.log
+bundle.err
+check-output.txt
+check.err
